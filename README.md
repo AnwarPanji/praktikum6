@@ -1,8 +1,8 @@
-
+# praktikum6
 Nama    : Panji Anwar Sanusi
 NIM     : 312210066
 Kelas   : TI.22.C1
-==========================================================================
+
 
 ### Program Data Mahasiswa
 
