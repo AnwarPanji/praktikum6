@@ -1,4 +1,4 @@
-# praktikum6
+
 Nama    : Panji Anwar Sanusi
 NIM     : 312210066
 Kelas   : TI.22.C1
@@ -224,11 +224,12 @@ Jika kita menginputkan selain yang ada pada menu (t, u, h, c, l, k) maka kita ak
 ![image](screenshot/hapus2.png)
 
 - Hasil Keluar (K)eluar
+
 ![image](screenshot/keluar.png)
 
 #### Berikut flowchart nya :
 ![image](screenshot/flowchart.png)
 
 
-~Terimakasih~ 
+Terimakasih
 
